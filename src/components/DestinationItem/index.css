@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.bg-item {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
